@@ -1,1 +1,1 @@
-
+This project implements a basic two-tier AWS infrastructure using CloudFormation. It includes a VPC with public and private subnets, an EC2 web server, and a PostgreSQL RDS instance, focusing on security, scalability, and high availability.
