@@ -1,1 +1,2 @@
-This project implements a basic two-tier AWS infrastructure using CloudFormation. It includes a VPC with public and private subnets, an EC2 web server, and a PostgreSQL RDS instance, focusing on security, scalability, and high availability.
+# Simple 2-Teir Web App
+![](https://github.com/JasonTeixeira/AWS-Two-Tier-Infrastructure/blob/main/Project-2%20AWS%20Architecture%20diagram.drawio.png)
